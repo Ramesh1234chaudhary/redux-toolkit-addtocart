@@ -4,7 +4,7 @@ import ReducerSlice from './ReducerSlice'
 
 const myStore=configureStore({
     reducer:{
-        ReducerSlice
+         ReducerSlice
     }
 })
-export default myStore;
+export default myStore
